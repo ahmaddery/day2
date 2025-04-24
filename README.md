@@ -3,6 +3,17 @@
 
 Proyek ini adalah implementasi dari materi *Pertemuan 2 - Building Your First Flutter UI*. Tujuannya adalah membangun antarmuka pengguna pertama menggunakan Flutter dengan memahami konsep dasar seperti widget, layout, serta fitur pengembangan seperti *hot reload* dan *hot restart*.
 
+## 📸 Preview Antarmuka
+
+![Screenshot 1](assets/images/github1.jpg)
+
+![Screenshot 2](assets/images/github2.jpg)
+
+![Screenshot 3](assets/images/github3.jpg)
+
+![Screenshot 4](assets/images/github4.jpg)
+
+
 ## 📋 Fitur Proyek
 
 - ✅ Pembuatan proyek Flutter baru
