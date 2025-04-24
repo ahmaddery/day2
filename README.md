@@ -5,13 +5,14 @@ Proyek ini adalah implementasi dari materi *Pertemuan 2 - Building Your First Fl
 
 ## 📸 Preview Antarmuka
 
-![Screenshot 1](assets/images/github1.jpg)
+<img src="assets/images/github1.jpg" width="600"/>
 
-![Screenshot 2](assets/images/github2.jpg)
+<img src="assets/images/github2.jpg" width="600"/>
 
-![Screenshot 3](assets/images/github3.jpg)
+<img src="assets/images/github3.jpg" width="600"/>
 
-![Screenshot 4](assets/images/github4.jpg)
+<img src="assets/images/github4.jpg" width="600"/>
+
 
 
 ## 📋 Fitur Proyek
