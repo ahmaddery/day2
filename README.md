@@ -5,13 +5,13 @@ Proyek ini adalah implementasi dari materi *Pertemuan 2 - Building Your First Fl
 
 ## 📸 Preview Antarmuka
 
-<img src="assets/images/github1.jpg" width="600"/>
+<img src="assets/images/github1.jpg" width="250"/>
 
-<img src="assets/images/github2.jpg" width="600"/>
+<img src="assets/images/github2.jpg" width="250"/>
 
-<img src="assets/images/github3.jpg" width="600"/>
+<img src="assets/images/github3.jpg" width="250"/>
 
-<img src="assets/images/github4.jpg" width="600"/>
+<img src="assets/images/github4.jpg" width="250"/>
 
 
 
